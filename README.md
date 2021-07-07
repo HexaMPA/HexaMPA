@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @HexaMPA
-- 👀 I’m interested in ...
+- 👀 I’m interested in Chemistry and Python coding.
 - 🌱 I’m currently learning LaTex and Python.
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 📫 Email me to hexa_mpa@tom.com.
 
 <!---
 HexaMPA/HexaMPA is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
